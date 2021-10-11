@@ -5,11 +5,11 @@
 ## Aim of the project 
 is to build an intelligent conversational chatbot, Riki, that can understand complex queries from the user and intelligently respond.
 
-## the dataset used :
+## the dataset used 
 
 [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) is a large metadata-rich collection of fictional conversations extracted from raw movie scripts. (220,579 conversational exchanges between 10,292 pairs of movie characters in 617 movies).
 
 
-## References:
+## References 
 - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 - https://arxiv.org/pdf/1508.04025.pdf
